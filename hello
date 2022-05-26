@@ -1,1 +1,2 @@
-echo "Hello Buddy "
+print ("Hello World!")
+print("Sandeep")
